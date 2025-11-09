@@ -1,0 +1,68 @@
+# Resumo Executivo – Projeto de Próteses Inteligentes para Pessoas com Mobilidade Reduzida
+
+## 1. Contexto e Motivação
+
+O projeto visa desenvolver **próteses robóticas inteligentes** para pessoas com mobilidade reduzida, com foco em acessibilidade, autonomia e qualidade de vida.
+
+O cenário brasileiro apresenta uma demanda reprimida por soluções tecnológicas assistivas acessíveis, confiáveis e adaptadas à realidade socioeconômica nacional. Atualmente, o acesso a próteses de alta tecnologia é restrito pelo elevado custo de importação e pela ausência de produção nacional em escala competitiva.
+
+---
+
+## 2. Estágio do Projeto
+
+O projeto encontra-se em fase de **protótipo funcional inicial**.
+
+Atividades já realizadas:
+
+* Estudos conceituais de biomecânica.
+* Identificação de sensores (EMG, giroscópios, acelerômetros).
+* Avaliação de materiais leves e resistentes (polímeros de alto desempenho e ligas metálicas).
+
+Próximos passos: consolidar o protótipo em ambiente de teste controlado, calibrar algoritmos de controle e iniciar ensaios com usuários em clínicas especializadas.
+
+---
+
+## 3. Inovação Tecnológica
+
+* **Sensores biomédicos** para captação de sinais musculares e neurológicos.
+* **IA embarcada** para aprendizado contínuo do padrão de movimento de cada usuário.
+* Estrutura modular e de baixo custo, com **customização individual**.
+* Interface homem-máquina intuitiva, com integração a aplicativos móveis.
+
+---
+
+## 4. Impacto Social e Econômico
+
+* Melhoria da mobilidade, autonomia e autoestima de pessoas com mobilidade reduzida.
+* Redução da dependência de próteses importadas.
+* Geração de empregos qualificados em engenharia biomédica, robótica e produção industrial.
+* Apoio a políticas de inclusão social, acessibilidade e saúde pública.
+
+---
+
+## 5. Viabilidade Técnica e Parcerias
+
+O projeto contará com parcerias com **Unidades EMBRAPII** e **laboratórios universitários** especializados em biomecânica e reabilitação.
+
+Linhas de fomento previstas:
+
+* **FAPESP / CNPq** – bolsas de pesquisa e desenvolvimento.
+* **FINEP / EMBRAPII** – consolidação de protótipo e testes de validação.
+* **BNDES – Indústria 4.0** – aquisição de equipamentos e escala produtiva.
+
+---
+
+## 6. Plano de Ação Inicial
+
+* Refinamento do protótipo com sensores e atuadores de alta precisão.
+* Validação em ambiente laboratorial com voluntários.
+* Estudo de viabilidade econômica e de produção em escala.
+* Estruturação de rede de parceiros industriais e clínicos para expansão do projeto.
+
+---
+
+## 7. Conclusão
+
+Projeto de **alto impacto social e tecnológico**, com potencial para transformar a vida de milhares de pessoas no Brasil.
+
+Com apoio de programas de fomento e parcerias estratégicas, avançará da fase de protótipo para validação clínica e produção em escala, posicionando o Brasil como referência em tecnologias assistivas e próteses inteligentes.

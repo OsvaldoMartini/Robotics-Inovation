@@ -1,0 +1,67 @@
+Perfeito — focando especificamente em **robótica para pessoas com deficiência / próteses inteligentes**, reuni os **editais, chamadas e linhas de crédito (2025)** que têm maior probabilidade de apoiar projetos nessa área. Coloquei um link direto para cada programa e uma nota rápida sobre o que financiar e porquê vale a pena aplicar. — Tudo verificado em sites oficiais (links abaixo).
+
+---
+
+# Editais e linhas mais relevantes para próteses inteligentes e tecnologia assistiva (2025)
+
+1. **FINEP — Chamadas Públicas (apoio a P,D&I e difusão tecnológica)**
+
+   * O que financia: projetos de P&D, infraestrutura e difusão de tecnologias (inclui saúde, robótica, infraestrutura de laboratórios e prototipagem). Muitos editais FINEP aceitam propostas envolvendo próteses, sensores biomédicos e sistemas robóticos assistivos.
+   * Porquê é relevante: FINEP opera chamadas específicas e aportes do FNDCT para tecnologia assistiva; costuma aceitar parcerias com empresas e universidades.
+   * Link / edital central: [https://www.finep.gov.br/chamadas-publicas/chamadaspublicas](https://www.finep.gov.br/chamadas-publicas/chamadaspublicas). ([finep.gov.br][1])
+
+2. **BNDES — Programa “BNDES Mais Inovação” / Crédito Indústria 4.0**
+
+   * O que financia: aquisição de equipamentos (incluindo robótica e automação), contratação de serviços tecnológicos e difusão de bens inovadores. Boa para financiar aquisição de linhas de produção, bancos de prova, e equipamentos para fabricação de próteses.
+   * Porquê é relevante: permite crédito para empresas que precisam comprar máquinas/equipamentos e implantar processos com tecnologias 4.0 (útil para produção de próteses inteligentes e exoesqueletos).
+   * Link: página do BNDES Mais Inovação. ([BNDES][2])
+
+3. **EMBRAPII — chamadas públicas e parcerias com Unidades EMBRAPII**
+
+   * O que financia: projetos colaborativos entre empresas e unidades de P,D&I credenciadas (custos de PD&I parcial). Embrapii tem chamadas que priorizam saúde e tecnologias de alto impacto.
+   * Porquê é relevante: ideal para empresas que precisam de know-how acadêmico/industrial para desenvolver protótipos de próteses e validar tecnologia clínica/industrial.
+   * Link para chamada 01/2025 (Unidades e projetos): [https://embrapii.org.br/chamadas-publicas/chamada-publica-unidades-embrapii-no-01-2025/](https://embrapii.org.br/chamadas-publicas/chamada-publica-unidades-embrapii-no-01-2025/). ([Embrapii][3])
+
+4. **FAPESP / SEDPcD (São Paulo) — editais para tecnologia assistiva e inclusão**
+
+   * O que financia: projetos de pesquisa e desenvolvimento voltados à inclusão, tecnologia assistiva e reabilitação. Em SP há iniciativas conjuntas (SEDPcD + FAPESP + universidades) com foco em próteses, mobilidade e acessibilidade.
+   * Porquê é relevante: se você atua (ou pode atuar) com universidades de SP, esses editais costumam financiar prototipagem, testes com usuários e difusão nas políticas públicas.
+   * Exemplo/nota: notícias e chamadas locais ligadas à SEDPcD e FAPESP (ver detalhes e prazos em portais oficiais). ([pessoacomdeficiencia.sp.gov.br][4])
+
+5. **MCTI / Programas de apoio a Centros de PD&I (chamada FINEP + BNDES — 2025)**
+
+   * O que financia: apoio à criação/expansão de centros de pesquisa e inovação — incluindo linhas voltadas a mobilidade e tecnologias para saúde. Projetos de próteses inteligentes se encaixam quando o escopo é infraestrutura e desenvolvimento colaborativo.
+   * Porquê é relevante: grandes aportes (ex.: chamada de R$3 bi anunciada em 2025) possibilitam parcerias de larga escala entre empresas e institutos.
+   * Link/nota oficial do anúncio: publicação MCTI sobre chamada/apoio a centros de PD&I. ([Serviços e Informações do Brasil][5])
+
+6. **Chamadas estaduais / universidades (Unicamp, USP, Unesp e editais regionais)**
+
+   * O que financia: projetos de pesquisa interinstitucional, bolsas para P&D, pequenas subvenções para protótipos (tipicamente R$100k–R$500k).
+   * Porquê é relevante: muitas pesquisas em próteses começam com editais universitários e depois escalam com FINEP/EMBRAPII/BNDES. Procure editais temáticos em universidades locais.
+   * Exemplo: edital interinstitucional envolvendo Unicamp/USP/Unesp para projetos voltados a pessoas com deficiência. ([Portal Unicamp][6])
+
+---
+
+# Recomendações rápidas (próximos passos)
+
+1. **Defina o estágio do projeto** (pesquisa conceitual / protótipo / produção piloto). Isso orienta qual edital priorizar (FAPESP/CNPq para ciência básica; EMBRAPII/FINEP para prototipagem; BNDES para aquisição/escala).
+2. **Busque uma unidade EMBRAPII ou um laboratório universitário** com experiência em biomecânica/robótica assistiva — eles costumam ser parceiros nas chamadas. Posso ajudar a achar unidades EMBRAPII relacionadas ao seu estado/área. ([Embrapii][3])
+3. **Prepare um resumo executivo (1 página)** destacando impacto social (benefício a pessoas com deficiência), viabilidade técnica e plano de testes clínicos/usuário — isso aumenta as chances em editais sociais/saúde.
+4. **Considere linhas simultâneas:** subvenção/bolsas (FAPESP/CNPq) + parceria EMBRAPII para PD&I + BNDES/FINEP para difusão/compra de equipamento. ([BNDES][2])
+
+---
+
+Quer que eu:
+
+* a) **Filtre apenas editais ABERTOS agora (2025)** e mostre prazos específicos?
+* b) **Procure Unidades EMBRAPII e laboratórios em São Paulo** com foco em próteses/robótica assistiva?
+* c) **Monte um rascunho de 1 página (resumo executivo)** para usar em inscrições?
+
+Escolha (a), (b) ou (c) — ou diga outro passo que prefere que eu faça agora.
+
+[1]: https://www.finep.gov.br/chamadas-publicas/chamadaspublicas?utm_source=chatgpt.com "Chamadas Públicas"
+[2]: https://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/programa-bndes-mais-inovacao?utm_source=chatgpt.com "BNDES Mais Inovação"
+[3]: https://embrapii.org.br/chamadas-publicas/chamada-publica-unidades-embrapii-no-01-2025/?utm_source=chatgpt.com "Chamada Pública Unidades Embrapii nº 01/2025"
+[4]: https://www.pessoacomdeficiencia.sp.gov.br/sedpcd-e-fapesp-recebem-projetos-para-centros-de-pesquisa-voltados-a-inclusao/?utm_source=chatgpt.com "SEDPcD e FAPESP recebem projetos para centros de ..."
+[5]: https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2025/02/em-campinas-sp-mcti-finep-e-bndes-anunciam-chamada-de-r-3-bilhoes-para-apoiar-centros-de-pd-i?utm_source=chatgpt.com "Em Campinas (SP), MCTI, FINEP e BNDES anunciam ..."
+[6]: https://unicamp.br/noticias/2024/08/14/universidades-fapesp-e-orgaos-publicos-lancam-projetos-para-desenvolvimento-de-pesquisas-voltadas-a-pessoas-com-deficencia/?utm_source=chatgpt.com "Universidades, Fapesp e órgãos públicos lançam projetos ..."
